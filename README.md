@@ -21,3 +21,26 @@ for each transaction minor gas fees will be charged from user in form of ether
 different files are there so try to add clearly
 
 so there wont be issue 
+
+
+
+flow of aplication
+
+Registration page:
+it will ask name, mail, password and conferm password also metamask connector is there 
+
+Login page :
+remeber a mailid/username and password and insert them
+
+dashboard : 
+it contains the user data wallet balance also show different option to share
+
+referral:
+you refer you get reward that system 
+
+games :
+this page contain games which has smart contract integration to real time money transaction
+
+logout:
+out of the world
+
